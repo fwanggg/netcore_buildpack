@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-Masterminds-semver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-blang-semver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-cloudfoundry-libbuildpack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-elazarl-goproxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-fsnotify-fsnotify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-google-subcommands" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-hpcloud-tail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-onsi-ginkgo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-onsi-gomega" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-tidwall-gjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-tidwall-match" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---go.googlesource.com-net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---go.googlesource.com-sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---go.googlesource.com-text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---gopkg.in-tomb.v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---gopkg.in-yaml.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/golang/dep" vcs="Git" />
+  </component>
+</project>

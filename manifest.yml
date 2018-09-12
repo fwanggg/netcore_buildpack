@@ -10,7 +10,5 @@ include_files:
   - bin/detect
   - bin/compile
   - bin/supply
-  - bin/finalize
-  - bin/release
   - manifest.yml
 pre_package: scripts/build.sh
