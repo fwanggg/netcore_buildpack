@@ -1,7 +1,6 @@
 package main
 
 import (
-	_ "netcore_riverbed/hooks"
 	"netcore_riverbed/supply"
 	"os"
 	"path/filepath"

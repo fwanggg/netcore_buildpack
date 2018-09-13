@@ -2,13 +2,13 @@
 language: netcore_riverbed
 default_versions:
 dependency_deprecation_dates:
-dependencies:
-
+dependencies: []
 include_files:
   - README.md
   - VERSION
   - bin/detect
   - bin/compile
   - bin/supply
+  - CorProfiler.so
   - manifest.yml
 pre_package: scripts/build.sh
