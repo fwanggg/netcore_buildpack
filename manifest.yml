@@ -9,6 +9,5 @@ include_files:
   - bin/detect
   - bin/compile
   - bin/supply
-  - CorProfiler.so
   - manifest.yml
 pre_package: scripts/build.sh

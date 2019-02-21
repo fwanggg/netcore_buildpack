@@ -68,6 +68,7 @@ func main() {
 	}
 
 	err = s.Run()
+
 	if err != nil {
 		logger.Error("Error: %s", err)
 		os.Exit(15)
